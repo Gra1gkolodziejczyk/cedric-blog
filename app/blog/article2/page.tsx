@@ -9,7 +9,7 @@ export default function Article2() {
     <div className="flex justify-center">
       <div className="flex flex-col p-10">
         <h1 className="text-blue-600 flex justify-center text-3xl">Le commencement</h1>
-        <p className="flex text-blue-500 justify-center text-xl">Date: 12/06</p>
+        <p className="flex text-blue-500 justify-center text-xl">Date: 13/06</p>
         <p className="text-lg pr-48 pl-48 pt-10">
         Mon stage se déroulera principalement à distance. Toutefois, 
         pour son commencement, nous avons décidé d&apos;une phase en présentiel. 

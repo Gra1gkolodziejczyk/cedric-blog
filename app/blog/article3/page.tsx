@@ -10,7 +10,7 @@ export default function Article3() {
     <div className="flex justify-center">
       <div className="flex flex-col p-10">
         <h1 className="text-blue-600 flex justify-center text-3xl">Les premières fondations</h1>
-        <p className="flex text-blue-500 justify-center text-xl">Date: 12/06</p>
+        <p className="flex text-blue-500 justify-center text-xl">Date: 27/06</p>
         <p className="text-lg pr-48 pl-48 pt-10">
         Au cours des deux dernières semaines, nous avons véritablement plongé dans le vif du projet.
         Nous avons configuré notre environnement de travail en utilisant git, un outil que j&apos;ai l&apos;opportunité d&apos;exploiter 

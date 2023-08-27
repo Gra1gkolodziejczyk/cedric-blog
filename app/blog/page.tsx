@@ -22,7 +22,7 @@ export default function Blog() {
           <h1 className="text-2xl">Le commencement</h1>
           </div>
           <div className="text-xl flex flex-row">
-            <p className=" mr-4">date : 12/06</p>
+            <p className=" mr-4">date : 13/06</p>
             <p className="">Auteur : Cedric Vidalie</p>
           </div>
         </Link>
@@ -35,7 +35,7 @@ export default function Blog() {
             <h1 className="text-2xl">Les premières fondations</h1>
           </div>
           <div className="text-xl flex flex-row">
-            <p className=" mr-4">date : 12/06</p>
+            <p className=" mr-4">date : 27/06</p>
             <p className="">Auteur : Cedric Vidalie</p>
           </div>
         </Link>
@@ -43,10 +43,10 @@ export default function Blog() {
         <div className="pl-2">
         <Link href="/blog/article4" className="bg-blue-300 hover:bg-blue-500 hover:text-white rounded-xl p-10 flex flex-col justify-between">
           <div className="flex justify-center">
-            <h1 className="text-2xl"></h1>
+            <h1 className="text-2xl">On avance lentement mais sûrement</h1>
           </div>
           <div className="text-xl flex flex-row">
-            <p className=" mr-4">date : 12/06</p>
+            <p className=" mr-4">date : 11/07</p>
             <p className="">Auteur : Cedric Vidalie</p>
           </div>
         </Link>
@@ -55,10 +55,10 @@ export default function Blog() {
         <div className="flex justify-center">
         <Link href="/blog/article5" className="bg-blue-300 hover:bg-blue-500 hover:text-white rounded-xl p-10 flex flex-col justify-between">
           <div className="flex justify-center">
-            <h1 className="text-2xl">Fin de mon stage</h1>
+            <h1 className="text-2xl">Fin de l&apos;aventure</h1>
           </div>
           <div className="text-xl flex flex-row">
-            <p className=" mr-4">date : 12/06</p>
+            <p className=" mr-4">date : 28/07</p>
             <p className="">Auteur : Cedric Vidalie</p>
           </div>
         </Link>
