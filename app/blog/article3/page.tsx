@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import ImageConnexion from "@/assets/imageConnexion.png"
-import ImageConnexion2 from "@/assets/imageConnexion2.png"
+import ImageConnexion2 from "@/assets/ImageConnexion2.png"
 import JWT from "@/assets/Jwt.png";
 import Pantalon from "@/assets/pantalon.png";
 import React from 'react';
